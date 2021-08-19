@@ -1,0 +1,22 @@
+.bg{
+background-color: #665cbe;
+height: 50px;
+text-align: center;
+color: white;
+font-family: 'Press Start 2P', cursive;
+font-size: 30px;
+}
+
+.about{
+    text-align: center;
+    color: white;
+    background-color:#665cbe;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 8px;
+}
+
+.bg-bottom{
+    background-color: #665cbe;
+    height: 50px;
+    
+}
