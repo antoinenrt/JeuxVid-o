@@ -1,0 +1,26 @@
+body{
+    background-color: royalblue;
+}
+
+img{
+    width: 50px;
+    height: 50px;
+}
+#console{
+    background-color: white;
+}
+
+#games{
+    background-color: white;
+}
+
+#accessories{
+    background-color: white;
+}
+
+.addToCart{
+    width: 95px;
+}
+.border{
+    border: 1px solid black;
+}

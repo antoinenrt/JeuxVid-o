@@ -1,0 +1,249 @@
+
+{
+	"console": [
+		{
+			"name" : "Playstation 5",
+			"reference" : 1,
+			"price" : 500,
+			"picture" : "assets/img/ps5.png",
+			"category" : "Console de Jeu"
+		},
+		{
+			"name" : "Playstation 4",
+			"reference" : 2,
+			"price" : 400,
+			"picture" : "assets/img/ps4.png",
+			"category" : "Console de Jeu"
+		},
+		{
+			"name" : "Xbox Series X",
+			"reference" : 3,
+			"price" : 500,
+			"picture" : "assets/img/xboxX.png",
+			"category" : "Console de Jeu"
+		},
+		{
+			"name" : "Xbox Series S",
+			"reference" : 4,
+			"price" : 400,
+			"picture" : "assets/img/xboxS.png",
+			"category" : "Console de Jeu"
+		},
+		{
+			"name" : "Nintendo Switch",
+			"reference" : 5,
+			"price" : 300,
+			"picture" : "assets/img/switch.png",
+			"category" : "Console de Jeu"
+		},
+		{
+			"name" : "Nintendo 3ds",
+			"reference" : 6,
+			"price" : 200,
+			"picture" : "assets/img/3ds.png",
+			"category" : "Console de Jeu"
+		}
+	],
+    "games": [
+        {
+            "name" : "Asterix et Obélix",
+			"reference" : 7,
+			"price" : 50,
+			"picture" :"assets/img/asterix.png",
+			"category" : "Jeu"
+        },
+        {
+            "name" : "Deponia",
+			"reference" : 8,
+			"price" : 50,
+			"picture" : "assets/img/deponia.png",
+			"category" : "Jeu"
+        },
+        {
+			"name" : "Minecraft",
+			"reference" : 9,
+			"price" : 50,
+			"picture" : "assets/img/minecraft.png",
+			"category" : "Jeu"
+		},	
+		{
+			"name" : "Toki",
+			"reference" : 10,
+			"price" : 50,
+			"picture" : "assets/img/download.png",
+			"category" : "Jeu"
+		},
+		{
+			"name" : "GTA V",
+			"reference" : 11,
+			"price" : 70,
+			"picture" : "image",
+			"category" : "Jeu"
+		},	
+		{
+			"name" : "Hunting 2",
+			"reference" : 12,
+			"price" : 70,
+			"picture" : "assets/img/hunting2.png",
+			"category" : "Jeu"
+		},	
+		{
+			"name" : "GodFall",
+			"reference" : 13,
+			"price" : 70,
+			"picture" : "assets/img/godfall.png",
+			"category" : "Jeu"
+		},	
+		{
+			"name" : "WRC",
+			"reference" : 14,
+			"price" : 70,
+			"picture" : "assets/img/wrc.png",
+			"category" : "Jeu"
+		}
+    ],
+    "accessories" : [
+		{
+			"name" : "Casque VR PS4",
+			"reference" : 15,
+			"price" : 180,
+			"picture" : "assets/img/casqueVRps4.jfif",
+			"category" : "Accessoires"
+		},
+		{
+			"name" : "Volant PS4",
+			"reference" : 16,
+			"price" : 200,
+			"picture" : "assets/img/volantps4.jfif",
+			"category" : "Accessoires"
+		},
+		{
+			"name" : "Strike pack PS4",
+			"reference" : 17,
+			"price" : 40,
+			"picture" : "image",
+			"category" : "Accessoires"
+		},
+		{
+			"name" : "Casque PS4",
+			"reference" : 18,
+			"price" : 50,
+			"picture" : "image",
+			"category" : "Accessoires"
+		},
+		{
+			"name" : "Chicha PS5",
+			"reference" : 19,
+			"price" : 50,
+			"picture" : "assets/img/chichaPS5.jfif",
+			"category" : "Accessoires"
+		},
+		{
+			"name" : "Pack Manette Chargeur PS5",
+			"reference" : 20,
+			"price" : 30,
+			"picture" : "assets/img/packManetteChargeurPS5.jpg",
+			"category" : "Accessoires"
+		},
+		{
+			"name" : "Housse Manette PS5",
+			"reference" : 21,
+			"price" : 20,
+			"picture" : "",
+			"category" : "Accessoires"
+		},
+		{
+			"name" : "Télécommande PS5",
+			"reference" : 22,
+			"price" : 30,
+			"picture" : "assets/img/telecommandeps5.jfif",
+			"category" : "Accessoires"
+		},
+		{
+			"name" : "Casque Xbox",
+			"reference" : 23,
+			"price" : 40,
+			"picture" : "image",
+			"category" : "Accessoires"
+		},
+		{
+			"name" : "Manette Xbox",
+			"reference" : 24,
+			"price" : 60,
+			"picture" : "assets/img/manetteXbox.jfif",
+			"category" : "Accessoires"
+		},
+		{
+			"name" : "Batterie",
+			"reference" : 25,
+			"price" : 30,
+			"picture" : "image",
+			"category" : "Accessoires"
+		},
+		{
+			"name" : "Sac Xbox",
+			"reference" : 26,
+			"price" : 40,
+			"picture" : "assets/img/sacXbox.jfif",
+			"category" : "Accessoires"
+		},
+		{
+			"name" : "Coque switch",
+			"reference" : 27,
+			"price" : 20,
+			"picture" : "assets/img/coqueSwitch.jfif",
+			"category" : "Accessoires"
+		},
+		{
+			"name" : "Housse Switch",
+			"reference" : 28,
+			"price" : 20,
+			"picture" : "assets/img/housseSwitch.jfif",
+			"category" : "Accessoires"
+		},
+		{
+			"name" : "JoyCon Switch",
+			"reference" : 29,
+			"price" : 45,
+			"picture" : "image",
+			"category" : "Accessoires"
+		},
+		{
+			"name" : "Ring Fit Switch",
+			"reference" : 30,
+			"price" : 60,
+			"picture" : "image",
+			"category" : "Accessoires"
+		},
+		{
+			"name" : "Stylet 3DS",
+			"reference" : 31,
+			"price" : 10,
+			"picture" : "assets/img/stylet3ds.jfif",
+			"category" : "Accessoires"
+		},
+		{
+			"name" : "Sangle 3DS",
+			"reference" : 32,
+			"price" : 10,
+			"picture" : "image",
+			"category" : "Accessoires"
+		},
+		{
+			"name" : "Rallonge 3DS",
+			"reference" : 33,
+			"price" : 15,
+			"picture" : "image",
+			"category" : "Accessoires"
+		},
+		{
+			"name" : "Coque 3DS",
+			"reference" : 34,
+			"price" : 20,
+			"picture" : "image",
+			"category" : "Accessoires"
+		}
+
+]
+
+}
