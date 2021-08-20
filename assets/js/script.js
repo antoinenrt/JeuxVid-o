@@ -38,6 +38,7 @@ window.addEventListener("DOMContentLoaded", (event) => {
 
                 document.getElementById('accessories').innerHTML += `<div  class='col-md-3 col-lg-3 col-sm-6 border'><img src="${picture}"></img> ${productName}, ${price} euros  <br><input data-ref= ${reference} data-product = ${productName} data-price = ${price} type="image" class="addToCart" src="assets/img/addToCart.png"></div>`
                 createEvent()
+                deleteEvent()
             })
 
         })
@@ -58,6 +59,14 @@ window.addEventListener("DOMContentLoaded", (event) => {
 var array = [];
 var modalCart = document.getElementById("modalCart")
 var articleInCart = []
+
+let deleteEvent = () => {
+    var deleted = document.getElementById('delete')
+    deleted.onclick = () => {
+        localStorage.clear();
+        modalCart.innerHTML += ""
+    }
+}
 let createEvent = () => {
     var btnAddToCart = document.querySelectorAll('.addToCart');
     btnAddToCart.forEach(element => {
